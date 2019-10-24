@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react';\nimport UserForm from '../components/UserForm';\n\nconst Index = () => {\n  return __jsx(\"div\", null, __jsx(UserForm, null));\n};\n\nexport default Index;","map":null,"metadata":{},"sourceType":"module"}
